@@ -6,7 +6,7 @@
  * @param {string} locale
  * @return {string}
  */
-let string = ''
+
 module.exports = function(string) {
-    return sting + 'dude'
+    return string + 'dude'
 };
