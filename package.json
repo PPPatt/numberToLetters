@@ -3,13 +3,6 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter spec"
-  },
-  "dependencies": {
-    "jest": "github:facebook/jest",
-    "mocha": "github:visionmedia/mocha#4727d357ea"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PPPatt/numberToLetters.git"
